@@ -6,7 +6,7 @@ Projet GIT 2023 - Groupe F
 - `initiator`: COLARD ELLIOT Group F
 - `contributor-1`: GUICHARD Noah Group F
 - `contributor-2`: GOUGE Nicolas Group F
-- `contributor-3`: Thiriot-lesne Matthew Group F 
+- `contributor-3`: THIRIOT-LESNE Matthew Group F 
 
 ## Fork urls
 - `contributor-1`: [quotes-noah-f](url-1)
